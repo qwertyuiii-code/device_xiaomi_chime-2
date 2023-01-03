@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cherish_chime.mk
+    $(LOCAL_DIR)/aosp_chime.mk
 
 COMMON_LUNCH_CHOICES := \
-    cherish_chime-user \
-    cherish_chime-userdebug \
-    cherish_chime-eng
+    aosp_chime-user \
+    aosp_chime-userdebug \
+    aosp_chime-eng
