@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "kernel_xiaomi_chime",
+    "target_path": "kernel/xiaomi/chime"
+  },
+  {
+    "repository": "vendor_xiaomi_chime",
+    "target_path" "vendor/xioami/chime"
+  }
+]
